@@ -1,0 +1,28 @@
+body{
+    background-color: #e6ccb2;
+}
+.intro{
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 30px;
+    color: azure;
+    padding: 5px;
+    text-align: center;
+    
+
+}
+.title{
+    text-shadow: 0px  0px 3px azure;
+
+}
+.project{
+    
+    
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #ede0d4;
+}
+h3{
+    font-weight: normal;
+}
