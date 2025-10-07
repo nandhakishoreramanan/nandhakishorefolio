@@ -1,27 +1,77 @@
 body{
-    background-color: #e6ccb2;
+    margin: 0px;
 }
 .intro{
     text-align: center;
     font-family: 'Poiret One', cursive;
     font-size: 30px;
-    color: azure;
+    color: #fffefc;
     padding: 5px;
     text-align: center;
-    
+    background-color: #ede0d4;
+    height: auto;
+    padding-bottom: 30px;
 
+}
+.pfp{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    
+    
+    
+    box-shadow: 0px 0px 5px #9c6644;
+
+    margin-top: 10px;
+}
+.aboutme h2{
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 35px;
+    color: #5b472d;
+    padding: 5px;
+    text-align: center;
+    text-shadow: 0px 0px 3px rgba(0,0,0,0.3);
+    
+    height: auto;
+    padding-bottom: 10px;
+}
+.aboutme{
+    background-color: #e6ccb2;
+    padding: 30px;
+}
+.abtmetxt{
+    font-family: 'Poiret One', sans-serif;
+    color:#5a4432;
+    text-align: center;
+    font-size: 28px;
+    padding-top: 10px;
+    padding: 5px;
 }
 .title{
-    text-shadow: 0px  0px 3px azure;
+     
+    text-shadow: 0px 0px 5px #fffefc;
+
 
 }
+.projects{
+    padding-top: 19.920px;
+    background-color: #ddb892;
+    font-family: Poiret One, cursive;
+    text-align: center;
+    font-size: 25px;
+   
+    padding-bottom: 30px;
+    text-underline-offset: none;
+}
 .project{
-    
-    
-    padding: 10px;
-    border-radius: 10px;
-    margin: 10px;
     background-color: #ede0d4;
+     text-decoration: none;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    
 }
 h3{
     font-weight: normal;
